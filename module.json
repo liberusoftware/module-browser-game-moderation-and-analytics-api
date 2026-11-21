@@ -3,7 +3,7 @@
   "name": "browser-game-moderation-and-analytics-api",
   "display_name": "Browser Game ModerationAndAnalytics API",
   "description": "Versioned authenticated moderation-and-analytics catalog API.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\ModerationAndAnalyticsApi\\ModerationAndAnalyticsApiServiceProvider",
   "requires": {
